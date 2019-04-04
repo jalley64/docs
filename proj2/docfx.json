@@ -95,8 +95,15 @@
     ],
     "globalMetadata": 
     {
+      "_enableSearch":true,
+      "_disableNavbar": false,
+      "_disableBreadcrumb":false,
+      "_disableToc":false,
       "_disableContribution": true,
-      "_appFaviconPath": "images/favicon.png"
+      "_appFaviconPath": "images/favicon.png",
+      "_appTitle": "Varigence Docs",
+      "_appFooter": "<span>Varigence 2019</span>",
+      "_appLogoPath": "images/varigencelogo.png"
     }
   },
 
